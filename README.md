@@ -1,6 +1,6 @@
 # cd-git-root.yazi
 
-Changes directory to the root of the current git repository you are currently in.
+Changes directory to the root of the git repository you are currently in.
 
 ## Installation
 
