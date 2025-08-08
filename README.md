@@ -5,7 +5,7 @@ Changes directory to the root of the git repository you are currently in.
 ## Installation
 
 ```sh
-ya pack -a ciarandg/cd-git-root
+ya pkg add ciarandg/cd-git-root
 ```
 
 ## Usage
